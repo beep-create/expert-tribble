@@ -1,0 +1,64 @@
+   
+   #ok {
+    font-family: 'Indie Flower', cursive;
+    font-weight: 900;
+    font-size: 40px;
+    color:lightblue;
+     
+}
+
+body {
+    background-color: aliceblue;
+	justify-content: center;
+	align-items: center;
+	
+	
+}
+img {
+    width: 250px;
+    height: 300px;
+    
+}
+
+#wow {
+    font-family: 'Patrick Hand', cursive;
+}
+
+.azure, .mobilenet{
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    color:lightpink;
+  
+}
+
+.img-responsive {
+    border: 2px solid white;
+    border-radius: 20px;
+
+}
+.bruh {
+    font-size: 25px;
+    color:lightcoral;
+}
+
+.result {
+    font-size: 22px;
+    color:lightskyblue;
+}
+span {
+    color: lightseagreen;
+}
+
+#ok_ig {
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 500px; 
+    margin-left: 500px;
+    box-shadow: 5px 5px 10px 10px cadetblue;
+    color: white;
+}
+
+.ok {
+    color: lightcoral;
+}
